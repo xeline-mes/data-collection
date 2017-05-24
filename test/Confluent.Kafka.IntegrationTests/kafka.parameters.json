@@ -1,0 +1,5 @@
+{
+  "bootstrapServers": "kafka-0.xeline.com:9092,kafka-1.xeline.com:9093,kafka-2.xeline.com:9094",
+  "topic": "test-topic-1",
+  "partitionedTopic": "test-topic-2"
+}
